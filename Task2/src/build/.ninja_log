@@ -1,0 +1,4 @@
+# ninja log v5
+3	2583	1601221319571029658	myproject/9a76b44@@myproject@exe/vector_test.cc.o	66ddd0ad61102ab1
+2584	2923	1601221319903050065	myproject/myproject	d2f5f8933b176542
+2923	3397	0	meson-test	443d68b7da1da879

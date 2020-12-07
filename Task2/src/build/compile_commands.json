@@ -1,0 +1,8 @@
+[
+  {
+    "directory": "/home/grebnick/MyProjects/Task2/src/build",
+    "command": "c++ -Imyproject/9a76b44@@myproject@exe -Imyproject -I../myproject -I/gnu/store/ihnqnmni2z344q7snd9m68dhma0v37vf-profile/lib/pkgconfig/../../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++17 -g -Wl,--start-group -lpthread -Wl,--end-group -DGTEST_HAS_PTHREAD=1 -MD -MQ 'myproject/9a76b44@@myproject@exe/vector_test.cc.o' -MF 'myproject/9a76b44@@myproject@exe/vector_test.cc.o.d' -o 'myproject/9a76b44@@myproject@exe/vector_test.cc.o' -c ../myproject/vector_test.cc",
+    "file": "../myproject/vector_test.cc",
+    "output": "myproject/9a76b44@@myproject@exe/vector_test.cc.o"
+  }
+]

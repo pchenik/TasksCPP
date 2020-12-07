@@ -1,0 +1,1 @@
+[{"cmd": ["/home/grebnick/MyProjects/Task4/my_vector/build/src/my_vector/my_vector_test"], "env": {}, "name": "my_vector", "workdir": null, "timeout": 30, "suite": ["my_vector"], "is_parallel": true, "priority": 0, "protocol": "exitcode"}]

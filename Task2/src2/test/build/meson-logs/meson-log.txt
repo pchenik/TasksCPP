@@ -1,0 +1,11 @@
+Build started at 2020-09-28T17:28:29.955075
+Main binary: /gnu/store/11l2qmzfgsp7k345mv6x1vn64q8330kw-python-wrapper-3.8.2/bin/python
+Build Options: 
+Python system: Linux
+The Meson build system
+Version: 0.53.2
+Source dir: /home/grebnick/MyProjects/Task2/src2/test
+Build dir: /home/grebnick/MyProjects/Task2/src2/test/build
+Build type: native build
+
+ERROR: First statement must be a call to project

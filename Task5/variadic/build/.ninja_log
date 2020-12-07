@@ -1,0 +1,4 @@
+# ninja log v5
+3	3649	1603714554252216155	src/variadic/ff0a8b8@@variadic_test@exe/variadic_test.cc.o	a7fa8abe3f65e2f
+3652	4364	1603714554956258798	src/variadic/variadic_test	6dd285e777aa7da4
+4364	4914	0	meson-test	443d68b7da1da879

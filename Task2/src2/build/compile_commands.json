@@ -1,0 +1,20 @@
+[
+  {
+    "directory": "/home/grebnick/MyProjects/Task2/src2/build",
+    "command": "c++ -Itest/simple_tests/d1ae96b@@simple_tests@exe -Itest/simple_tests -I../test/simple_tests -I/gnu/store/ihnqnmni2z344q7snd9m68dhma0v37vf-profile/lib/pkgconfig/../../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++17 -g -Wl,--start-group -lpthread -Wl,--end-group -DGTEST_HAS_PTHREAD=1 -MD -MQ 'test/simple_tests/d1ae96b@@simple_tests@exe/vector_test.cc.o' -MF 'test/simple_tests/d1ae96b@@simple_tests@exe/vector_test.cc.o.d' -o 'test/simple_tests/d1ae96b@@simple_tests@exe/vector_test.cc.o' -c ../test/simple_tests/vector_test.cc",
+    "file": "../test/simple_tests/vector_test.cc",
+    "output": "test/simple_tests/d1ae96b@@simple_tests@exe/vector_test.cc.o"
+  },
+  {
+    "directory": "/home/grebnick/MyProjects/Task2/src2/build",
+    "command": "c++ -Itest/parameterized_tests/88c8feb@@parameterized_tests@exe -Itest/parameterized_tests -I../test/parameterized_tests -I/gnu/store/ihnqnmni2z344q7snd9m68dhma0v37vf-profile/lib/pkgconfig/../../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++17 -g -Wl,--start-group -lpthread -Wl,--end-group -DGTEST_HAS_PTHREAD=1 -MD -MQ 'test/parameterized_tests/88c8feb@@parameterized_tests@exe/vector_test.cc.o' -MF 'test/parameterized_tests/88c8feb@@parameterized_tests@exe/vector_test.cc.o.d' -o 'test/parameterized_tests/88c8feb@@parameterized_tests@exe/vector_test.cc.o' -c ../test/parameterized_tests/vector_test.cc",
+    "file": "../test/parameterized_tests/vector_test.cc",
+    "output": "test/parameterized_tests/88c8feb@@parameterized_tests@exe/vector_test.cc.o"
+  },
+  {
+    "directory": "/home/grebnick/MyProjects/Task2/src2/build",
+    "command": "c++ -Itest/typed_tests/fc79e24@@typed_tests@exe -Itest/typed_tests -I../test/typed_tests -I/gnu/store/ihnqnmni2z344q7snd9m68dhma0v37vf-profile/lib/pkgconfig/../../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++17 -g -Wl,--start-group -lpthread -Wl,--end-group -DGTEST_HAS_PTHREAD=1 -MD -MQ 'test/typed_tests/fc79e24@@typed_tests@exe/vector_test.cc.o' -MF 'test/typed_tests/fc79e24@@typed_tests@exe/vector_test.cc.o.d' -o 'test/typed_tests/fc79e24@@typed_tests@exe/vector_test.cc.o' -c ../test/typed_tests/vector_test.cc",
+    "file": "../test/typed_tests/vector_test.cc",
+    "output": "test/typed_tests/fc79e24@@typed_tests@exe/vector_test.cc.o"
+  }
+]

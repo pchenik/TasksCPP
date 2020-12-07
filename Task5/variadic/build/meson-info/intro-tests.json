@@ -1,0 +1,1 @@
+[{"cmd": ["/home/grebnick/MyProjects/Task5/variadic/build/src/variadic/variadic_test"], "env": {}, "name": "variadic", "workdir": null, "timeout": 30, "suite": ["variadic"], "is_parallel": true, "priority": 0, "protocol": "exitcode"}]

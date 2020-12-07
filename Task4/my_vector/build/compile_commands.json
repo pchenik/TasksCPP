@@ -1,0 +1,8 @@
+[
+  {
+    "directory": "/home/grebnick/MyProjects/Task4/my_vector/build",
+    "command": "c++ -Isrc/my_vector/614b400@@my_vector_test@exe -Isrc/my_vector -I../src/my_vector -Isrc -I../src -I/gnu/store/ihnqnmni2z344q7snd9m68dhma0v37vf-profile/lib/pkgconfig/../../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++2a -g -Wl,--start-group -lpthread -Wl,--end-group -DGTEST_HAS_PTHREAD=1 -MD -MQ 'src/my_vector/614b400@@my_vector_test@exe/my_vector_test.cc.o' -MF 'src/my_vector/614b400@@my_vector_test@exe/my_vector_test.cc.o.d' -o 'src/my_vector/614b400@@my_vector_test@exe/my_vector_test.cc.o' -c ../src/my_vector/my_vector_test.cc",
+    "file": "../src/my_vector/my_vector_test.cc",
+    "output": "src/my_vector/614b400@@my_vector_test@exe/my_vector_test.cc.o"
+  }
+]

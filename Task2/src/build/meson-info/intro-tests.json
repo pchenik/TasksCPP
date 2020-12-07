@@ -1,0 +1,1 @@
+[{"cmd": ["/home/grebnick/MyProjects/Task2/src/build/myproject/myproject"], "env": {}, "name": "myproject", "workdir": null, "timeout": 30, "suite": ["myproject"], "is_parallel": true, "priority": 0, "protocol": "exitcode"}]

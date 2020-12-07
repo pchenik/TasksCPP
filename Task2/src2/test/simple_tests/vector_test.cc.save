@@ -1,0 +1,49 @@
+#include <gtest/gtest.h>
+#include <vector>
+#include <string>
+
+using namespace std;
+
+TEST(vector, PushBack) {
+        vector<int> vv = {1, 2, 3};
+        vv.push_back(4);
+        vector<int> ans = {1, 2, 3, 4};
+        EXPECT_EQ(vv, ans);
+}
+
+TEST(vector, PopBack) {
+	vector<int> vv = {1, 2, 3, 4};
+	vv.pop_back();
+	vector<int> ans = {1, 2, 3};
+	EXPECT_EQ(vv, ans);
+}
+
+TEST(vector, Erase) {
+	vector<string> vv = {"Moscow", "Munchen", "Glasgow"};
+	vv.erase(vv.find("Munchen"));
+	vector<string> ans = {"Moscow", "Glasgow"};
+	EXPECT_EQ(vv, ans);
+}
+
+TEST(vector, Begin) {
+	vector<float> vv = {0.1, 0.2};
+	float ans = 0.1;
+	EPXECT(*vv.begin(), ans);
+}
+
+TEST(vector, End) {
+        vector<float> vv = {0.1, 0.2};
+        float ans = 0.2;
+        EPXECT(*vv.end(), ans);
+}
+
+TEST(vector, Size) {
+	vector<long long> vv = {1, 1e14, 8};
+	EXPECT_EQ(3u. vv.size());
+	vv.pop_back();
+	vv.push_back(1ll << 32);
+	EXPECT_EQ(3u, vv.size());
+}
+
+
+

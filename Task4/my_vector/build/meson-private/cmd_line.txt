@@ -1,0 +1,6 @@
+[options]
+b_sanitize = none
+backend = ninja
+
+[properties]
+
